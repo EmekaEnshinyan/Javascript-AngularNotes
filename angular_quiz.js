@@ -53,3 +53,10 @@ return b;
 
  True
  False
+
+ //In Angular routing, which tag is used to render matched component via active route?
+
+ <router></router>
+ <router-output></router-output>
+ <router-outlet></router-outlet>
+ <router-display></router-display>
