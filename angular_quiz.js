@@ -47,3 +47,9 @@ return b;
  2
  3
  4
+
+
+//Custom pipe can modify actual value of variable apart from different presention in HTML.
+
+ True
+ False
