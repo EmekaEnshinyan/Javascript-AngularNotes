@@ -40,3 +40,10 @@ return b;
  .ng-pending
  .ng-pristine
  .ng-dirty
+
+//How many instances of service will be created if you provide a custom service in two components’ “providers” section of @Component decorator?
+
+ 1
+ 2
+ 3
+ 4
