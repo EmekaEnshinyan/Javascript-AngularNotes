@@ -28,3 +28,8 @@ return b;
  ng-app
  ng-init
  ng-model
+
+//Which directive modifies DOM hierarchy?
+
+ Structural directive
+ Attribute directive
