@@ -33,3 +33,10 @@ return b;
 
  Structural directive
  Attribute directive
+ 
+ //Which is the correct form control class name that is set to true via [(ngModel)] whenever value is changed?
+
+ .ng-invalid
+ .ng-pending
+ .ng-pristine
+ .ng-dirty
