@@ -1,4 +1,6 @@
 
+//FOLLOWING QUESTIONS FROM https://www.w3docs.com/quiz/angular
+
 //What will be the result of the below program?
 
 function f(input: boolean) {
@@ -60,3 +62,65 @@ return b;
  <router-output></router-output>
  <router-outlet></router-outlet>
  <router-display></router-display>
+
+//Which method of RouterModule should be called for providing all routes in AppModule?
+
+ RouterModule.forChild
+ RouterModule.forRoot
+ RouterModule
+ RouterModule.import
+
+//Async Pipe subscribes to observer and updates expression whenever there is data sent from observer.
+
+ True
+ False
+
+ //Which command is used to run the Static Code analysis of Angular application?
+
+ ng build
+ ng profile
+ ng lint
+ ng serve
+
+ //Router service needs to be explicitly provided in angular module to use it in another component via DI.
+
+ True
+ False
+ 
+ //You can chain multiple pipe in a single expression along with “async” pipe.
+
+ True
+ False
+
+ //Which component represents “target/host” DOM element inside Directive’s constructor?
+
+ Element
+ ElementRef
+ Host
+ Target
+ 
+ //Which command must be used to build an application in production mode?
+
+ ng build
+ ng serve
+ ng build --prod
+ ng lint
+ 
+ //Which decorator does the directive use to listen to the host/target events?
+
+ @Listener
+ @HostListener
+ @OnListener
+ @TargetListener
+
+//There can be more than one <router-outlet> element in Angular application.
+
+ True
+ False
+ 
+ //Which service can be used to extract route parameters inside component?
+
+ Router
+ Route
+ ActivatedRoute
+ CurrentRoute
